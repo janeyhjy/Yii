@@ -1,4 +1,4 @@
-##安装（环境:Unbuntu）
+##安装（环境:ubuntu）
 + 用Composer安装/Downloading an archive file（这里用Composer安装）
 + 安装Composer: `https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx`
 ```
